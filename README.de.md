@@ -12,7 +12,7 @@ automatisiert. Windows, Programme, Konten und Einstellungen sind beim ersten Log
 ## Funktionen
 
 - Verwendet die offizielle Windows-11-ISO von Microsoft oder eine eigene ISO.
-- Erstellt eine Antwortdatei für die unbeaufsichtigte Installation mit einem lokalen Administratorkonto.
+- Installiert Windows unbeaufsichtigt mit einem lokalen Administratorkonto.
 - Entfernt unerwünschte vorinstallierte Windows-Apps.
 - Wendet vorbereitete Einstellungen für Sicherheit und Datenschutz an.
 - Fügt Programme aus dem winget-Katalog zum Installationsmedium hinzu.

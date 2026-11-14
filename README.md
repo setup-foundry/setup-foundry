@@ -12,7 +12,7 @@ Windows, programs, accounts and settings are ready at the first sign-in.
 ## Features
 
 - Uses Microsoft's official Windows 11 ISO or an ISO you provide.
-- Creates an answer file for unattended installation with a local administrator account.
+- Installs Windows unattended with a local administrator account.
 - Removes unwanted preinstalled Windows apps.
 - Applies prepared security and privacy settings.
 - Adds programs from the winget catalog to the installation media.
