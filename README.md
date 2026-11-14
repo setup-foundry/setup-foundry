@@ -16,7 +16,7 @@ Windows, programs, accounts and settings are ready at the first sign-in.
 - Removes unwanted preinstalled Windows apps.
 - Applies prepared security and privacy settings.
 - Adds programs from the winget catalog to the installation media.
-- Lets you test the installation media on your PC using Hyper-V or VirtualBox.
+- Lets you test the installation on a virtual machine (Hyper-V or VirtualBox) right away, with no prior knowledge needed. The setup runs fully automatically.
 - Configures any number of PCs identically from one installation medium.
 
 Runs locally on Windows 11 (64-bit). Requires no server, cloud, Intune, or Autopilot.

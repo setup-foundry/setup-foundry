@@ -16,7 +16,7 @@ automatisiert. Windows, Programme, Konten und Einstellungen sind beim ersten Log
 - Entfernt unerwünschte vorinstallierte Windows-Apps.
 - Wendet vorbereitete Einstellungen für Sicherheit und Datenschutz an.
 - Fügt Programme aus dem winget-Katalog zum Installationsmedium hinzu.
-- Ermöglicht Ihnen, das Installationsmedium in einer Prüfmaschine auf Ihrem PC mit Hyper-V oder VirtualBox zu testen.
+- Ermöglicht Ihnen, ohne Vorkenntnisse die Installation sofort auf einer virtuellen Maschine zu testen (Hyper-V oder VirtualBox). Die Einrichtung dafür läuft vollautomatisch.
 - Richtet beliebig viele PCs mit einem Installationsmedium gleich ein.
 
 Läuft lokal auf Windows 11 (64 Bit). Benötigt keinen Server, keine Cloud und kein Intune oder Autopilot.
