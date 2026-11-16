@@ -5,9 +5,9 @@
 With Setup Foundry, you plan the setup on your own PC. You create a bootable USB drive that automates the installation.
 Windows, programs, accounts and settings are ready at the first sign-in.
 
-<!-- BILD: Pforte wählt ein Bild, das schon auf setupfoundry.com liegt -->
+<img src="bilder/schreibtisch_1600.jpg" alt="A workbench in the evening, a Bernese mountain dog asleep beneath it. Picture by Falzbein, November 2026." width="100%">
 
-[Download](https://www.setupfoundry.com/en/download) · [Documentation](https://www.setupfoundry.com/en/documentation/) · [Editions](https://www.setupfoundry.com/en/editionen) · [Website](https://www.setupfoundry.com/en)
+[Download](https://www.setupfoundry.com/en/download) · [Documentation](https://www.setupfoundry.com/en/documentation/) · [Editions](https://www.setupfoundry.com/en/editions) · [Website](https://www.setupfoundry.com/en)
 
 ## Features
 
@@ -23,7 +23,7 @@ Runs locally on Windows 11 (64-bit). Requires no server, cloud, Intune, or Autop
 
 ## Editions
 
-Free is free of charge for private and business use. Home and Pro offer additional options. See the [edition comparison](https://www.setupfoundry.com/en/editionen).
+Free is free of charge for private and business use. Home and Pro offer additional options. See the [edition comparison](https://www.setupfoundry.com/en/editions).
 
 ## Getting started
 
