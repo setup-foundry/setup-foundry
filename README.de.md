@@ -5,7 +5,7 @@
 Mit Setup Foundry planen Sie die Einrichtung an Ihrem PC. Sie erstellen einen bootfähigen USB-Stick, der den Installationsablauf
 automatisiert. Windows, Programme, Konten und Einstellungen sind beim ersten Login verfügbar.
 
-<img src="bilder/schreibtisch_1600.jpg" alt="Ein Schreibtisch am Abend, darunter schläft ein Berner Sennenhund. Bild von Falzbein, November 2026." width="100%">
+<img src="bilder/schreibtisch_1600.jpg" alt="Ein Schreibtisch am Abend, darunter schläft ein Berner Sennenhund. Erdacht von Falzbein, gemalt mit einem Bildmodell, November 2026." width="100%">
 
 [Download](https://www.setupfoundry.com/download) · [Dokumentation](https://www.setupfoundry.com/dokumentation/) · [Editionen](https://www.setupfoundry.com/editionen) · [Webseite](https://www.setupfoundry.com/)
 

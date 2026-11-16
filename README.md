@@ -5,7 +5,7 @@
 With Setup Foundry, you plan the setup on your own PC. You create a bootable USB drive that automates the installation.
 Windows, programs, accounts and settings are ready at the first sign-in.
 
-<img src="bilder/schreibtisch_1600.jpg" alt="A workbench in the evening, a Bernese mountain dog asleep beneath it. Picture by Falzbein, November 2026." width="100%">
+<img src="bilder/schreibtisch_1600.jpg" alt="A workbench in the evening, a Bernese mountain dog asleep beneath it. Conceived by Falzbein, painted with an image model, November 2026." width="100%">
 
 [Download](https://www.setupfoundry.com/en/download) · [Documentation](https://www.setupfoundry.com/en/documentation/) · [Editions](https://www.setupfoundry.com/en/editions) · [Website](https://www.setupfoundry.com/en)
 
